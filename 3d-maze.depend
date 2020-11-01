@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604237122 source:c:\users\augus\dropbox\c++\3d-maze\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<tuple>
+
